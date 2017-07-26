@@ -1,0 +1,18 @@
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\bin\Debug\OutPatch.exe.config
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\bin\Debug\OutPatch.exe
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\bin\Debug\OutPatch.pdb
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\obj\Debug\OutPatch.csprojResolveAssemblyReference.cache
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\obj\Debug\OutPatch.Form1.resources
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\obj\Debug\OutPatch.Properties.Resources.resources
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\obj\Debug\OutPatch.csproj.GenerateResource.Cache
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\obj\Debug\OutPatch.exe
+c:\users\bruce\documents\visual studio 2012\Projects\OutPatch\OutPatch\obj\Debug\OutPatch.pdb
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\bin\Debug\OutPatch.exe.config
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.exe
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.pdb
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\bin\Debug\OutPatch.exe
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\bin\Debug\OutPatch.pdb
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.csprojResolveAssemblyReference.cache
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.Form1.resources
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.Properties.Resources.resources
+F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.csproj.GenerateResource.Cache
