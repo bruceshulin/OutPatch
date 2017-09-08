@@ -16,3 +16,15 @@ F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.csprojResolveA
 F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.Form1.resources
 F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.Properties.Resources.resources
 F:\BaiduYunDownload\OutPatch\OutPatch\OutPatch\obj\Debug\OutPatch.csproj.GenerateResource.Cache
+D:\鲍书林移动\github\OutPatch\OutPatch\bin\Debug\OutPatch.exe.config
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.exe
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.pdb
+D:\鲍书林移动\github\OutPatch\OutPatch\bin\Debug\OutPatch.exe
+D:\鲍书林移动\github\OutPatch\OutPatch\bin\Debug\OutPatch.pdb
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.Form1.resources
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.Properties.Resources.resources
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.csproj.GenerateResource.Cache
+D:\鲍书林移动\github\OutPatch\OutPatch\bin\Debug\OutPatch.exe.manifest
+D:\鲍书林移动\github\OutPatch\OutPatch\bin\Debug\OutPatch.application
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.exe.manifest
+D:\鲍书林移动\github\OutPatch\OutPatch\obj\Debug\OutPatch.application

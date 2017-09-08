@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.txtFiles = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -38,6 +39,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.btnHistory = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -127,11 +129,22 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "源目录";
             // 
+            // btnHistory
+            // 
+            this.btnHistory.Location = new System.Drawing.Point(500, 12);
+            this.btnHistory.Name = "btnHistory";
+            this.btnHistory.Size = new System.Drawing.Size(75, 23);
+            this.btnHistory.TabIndex = 6;
+            this.btnHistory.Text = "<<<history";
+            this.btnHistory.UseVisualStyleBackColor = true;
+            this.btnHistory.Click += new System.EventHandler(this.btnHistory_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(591, 475);
+            this.Controls.Add(this.btnHistory);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.txtSource);
@@ -142,6 +155,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtFiles);
             this.Controls.Add(this.button1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "输出patch";
             this.ResumeLayout(false);
@@ -161,6 +175,7 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Button btnHistory;
     }
 }
 
