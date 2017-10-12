@@ -72,6 +72,7 @@ namespace OutPatch
 
                 string file_tmp = listfiles[i].Replace('\r', ' ').Trim().Replace("/", "\\");
                 string file = SourceDir + "\\" + file_tmp;
+                //能取到文件名，说明是文件，否则是目录
                 if (File.Exists(file) == true)
                 {
                     string filename = System.IO.Path.GetFileName(file);// getfileName(file);
@@ -90,7 +91,7 @@ namespace OutPatch
                     }
                     else
                     {
-                        MessageBox.Show(file + "目录" + destPath);
+                        MessageBox.Show(file + "文件或目录不存在，" + destPath);
                     }
                 }
             }
